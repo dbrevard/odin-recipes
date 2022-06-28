@@ -4,3 +4,9 @@
     color: aliceblue;
     padding: 10px;
 }
+
+.links-to-recipes {
+    width: fit-content;
+    color: red;
+    padding: 10px;
+}
