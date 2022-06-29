@@ -1,3 +1,11 @@
+.recipe-links {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
 .heading {
     background-color: green;
     width: fit-content;
