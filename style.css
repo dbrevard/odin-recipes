@@ -8,7 +8,7 @@
 
 .heading {
     background-color: green;
-    /*width: fit-content; This is no longer needed with flex set*/
+    /* width: fit-content; This is no longer needed with flex set */
     color: aliceblue;
     text-align: center;
     padding: 10px;
