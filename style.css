@@ -8,9 +8,11 @@
 
 .heading {
     background-color: green;
-    width: fit-content;
+    /*width: fit-content; This is no longer needed with flex set*/
     color: aliceblue;
     padding: 10px;
+    display: flex;
+    flex: 1 1 auto;
 }
 
 .links-to-recipes {
