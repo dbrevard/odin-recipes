@@ -1,6 +1,6 @@
 .recipe-links {
     display: flex;
-    flex-direction: row;
+    flex-flow: row wrap;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 1rem;
